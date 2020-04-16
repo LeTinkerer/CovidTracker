@@ -8,7 +8,7 @@ Tracks spread of the covid-19 virus in India and Germany
 -Display on OLED screen
 
 
-'''
+```
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
@@ -177,8 +177,7 @@ Serial.println("-------------------------------");
   delay(100);
   
 }
-
-'''
+```
 
 
 
